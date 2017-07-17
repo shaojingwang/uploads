@@ -1,7 +1,6 @@
 /*
   CSS for Upload
 */
-
 @font-face {
   font-family: "Roboto";
   src: url("/public/images/roboto.ttf") format("truetype");
@@ -42,7 +41,7 @@ body {
   padding: 50px 0 0;
   width: 100%;
   height: 120px;
-  background-color: #62aac3;
+  background-color: #4e5366;
 }
 .content-nav-inner {
   position: relative;
@@ -98,13 +97,13 @@ body {
   right: 0px;
   top: 20px;
   width: 148px;
-  border: 1px solid #62aac3;
+  border: 1px solid #4e5366;
   border-radius: 4px;
   overflow: hidden;
 }
 .user-funcbtn {
   padding: 0 10px;
-  color: #62aac3;
+  color: #4e5366;
   cursor: pointer;
   font-size: 14px;
   line-height: 40px;
@@ -121,7 +120,7 @@ body {
   border-bottom: none;
 }
 .user-funcbtn:hover {
-  background: #62aac3;
+  background: #4e5366;
   color: #fff;
 }
 
@@ -138,7 +137,7 @@ body {
 .up-clear-recent {
   float: right;
   font-size: 12px;
-  color: #62aac3;
+  color: #4e5366;
   cursor: pointer;
 }
 .up-clear-recent:hover {
@@ -171,7 +170,7 @@ body {
   margin: 50px auto;
   width: 200px;
   height: 50px;
-  background-color: #62aac3;
+  background-color: #4e5366;
   border: 2px solid #fff;
   color: #fff;
   font-size: 16px;
@@ -188,9 +187,9 @@ body {
 }
 .plup-filepicker:hover {
   background-color: #fff;
-  border: 2px solid #62aac3;
+  border: 2px solid #4e5366;
   text-decoration: none;
-  color: #62aac3;
+  color: #4e5366;
 }
 .plup-empty {
   margin: 0 auto;
@@ -206,7 +205,7 @@ body {
 .plup-filelist {
   display: none;
   margin: 0 auto;
-  border: 1px solid #62aac3;
+  border: 1px solid #4e5366;
   border-radius: 4px;
   background-color: #fff;
   border-bottom: none;
@@ -216,14 +215,14 @@ body {
   width: 100%;
   height: 160px;
   background-color: #eee;
-  border-bottom: 1px solid #62aac3;
+  border-bottom: 1px solid #4e5366;
 }
 .plup-filelist div.uploading span {
   display: block;
   text-align: center;
   font-size: 16px;
   line-height: 160px;
-  color: #62aac3;
+  color: #4e5366;
   opacity: .8;
 }
 .plup-filelist div.uploaded {
@@ -232,7 +231,7 @@ body {
   height: 130px;
   padding: 15px 0;
   background-color: #fff;
-  border-bottom: 1px solid #62aac3;
+  border-bottom: 1px solid #4e5366;
 }
 .uploaded-close {
   position: absolute;
@@ -258,7 +257,7 @@ body {
   float: left;
   width: 13.5%;
   height: 100%;
-  border-right: 1px dashed #62aac3;
+  border-right: 1px dashed #4e5366;
   overflow: hidden;
 }
 .uploaded-left img {
@@ -276,7 +275,7 @@ body {
   color: #666;
 }
 .uploaded-right p a {
-  color: #62aac3;
+  color: #4e5366;
 }
 .uploaded-right p a:hover {
   color: #333;
@@ -329,14 +328,14 @@ body {
   line-height: 28px;
 }
 .recent-ip {
-  color: #62aac3;
+  color: #4e5366;
 }
 .recent-url {
   margin-left: 15px;
   color: #666;
 }
 .recent-url:hover {
-  color: #62aac3;
+  color: #4e5366;
   text-decoration: underline;
 }
 .recent-time {
@@ -361,7 +360,7 @@ body {
   margin: 10px 0;
   text-align: center;
   font-size: 20px;
-  color: #62aac3;
+  color: #4e5366;
 }
 .login-title-h2 {
   margin-bottom: 30px;
